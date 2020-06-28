@@ -1,4 +1,4 @@
 ## Initial codes
 
-* cloned from daattali/beautiful-jekyll
-* customized
+* cloned and customized from seokho-son/seokho-son.github.io
+  * it was originally cloned from daattali/beautiful-jekyll and customized
