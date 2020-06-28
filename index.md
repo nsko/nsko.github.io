@@ -2,7 +2,7 @@
 layout: page
 title: Data-centric Network Research Section
 subtitle: Communications & Media Research Lab, ETRI
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/nsko-cover.jpg
 ---
 
 <br/>
