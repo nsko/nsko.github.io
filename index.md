@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data-centric Network Research Section
+title: Data-centric Network Research
 subtitle: Communications & Media Research Lab, ETRI
 cover-img: /assets/img/nsko-cover.jpg
 ---
